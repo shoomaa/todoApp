@@ -1,0 +1,17 @@
+{
+  "language": "Language",
+  "araby":"Araby",
+  "english":"English",
+  "mode": "Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "todo": "To Do List ",
+  "settings": "Settings",
+  "delete": "Delete",
+  "edit": "Edit",
+  "addnewtask":"Add New Task",
+  "entertask":"Enter Task Title",
+  "enterdesc":"Enter Task Description",
+  "selectedtime":"Selected Time",
+  "cancel":"Cancel"
+}
